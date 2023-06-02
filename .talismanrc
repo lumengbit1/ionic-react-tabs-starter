@@ -1,0 +1,22 @@
+threshold: medium
+fileignoreconfig:
+  - filename: ios/App/Podfile.lock
+    checksum: 75fd48736fda25cc02c551dc8f413e82c4f213b87b41ef3423d4cb3d26397751
+  - filename: ios/App/App.xcodeproj/project.pbxproj
+    checksum: 758ca147c6bd0633d553b8ec779667fe82dd58b5e0824ed2285f603a9bd6f4c2
+  - filename: android/app/build.gradle
+    checksum: 78d4bcef547e4c4ad5efb95d510b3f082a54b100cfff1e6da06191ae15928caf
+  - filename: package-lock.json
+    checksum: 415558466227a63e1577ce05a2707d68ac865de53a743d5f1299d4256fe5333e
+  - filename: ios/App/App.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+    checksum: 4e9efbec7b39c95d281caf52efb13e124022aba2b7336c231398725ebe70e58a
+  - filename: android/capacitor.settings.gradle
+    checksum: ca3e091156968810f8e9472de9aa02493513966689cbd0cd0fd0e711339cda57
+  - filename: ios/App/App/AppDelegate.swift
+    checksum: 62cd2354822800b89cbe0b59d1056579fb18f38f140f25989da8c90e95f50b2d
+  - filename: ios/App/Podfile
+    checksum: 505a45b6d554ef330d62bb098ba3f00694b337e6b69248fc2a957791a15009b4
+  - filename: ios/App/App/Info.plist
+    checksum: 1624045fcba443f210bc18c64329f056a216e71487cd615db43b1743895eba72
+  - filename: ios/App/App/Base.lproj/LaunchScreen.storyboard
+    checksum: ca31d5dd756f8e4297984fce03dcfb948733fb4cf5e5410641ee1eebdb08ad76
